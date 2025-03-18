@@ -2,14 +2,6 @@ In this project, let's build a **Meme Generator** app
 URL: <a href="https://suryasmemegen.ccbp.tech/">suryasmemegen.ccbp.tech</a>
 ### Design Files
 
-<details>
-<summary>Click to view</summary>
-
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/meme-generator-sm-output-v0.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/meme-generator-lg-output-v0.png)
-
-</details>
-
 ### Set Up Instructions
 
 <details>
